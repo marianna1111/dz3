@@ -1,0 +1,26 @@
+{
+"students":[
+{
+"name": "Alex",
+"surname": "Green",
+"age": 21,
+"sex": "male",
+"isLocal": true,
+"mainLessons": ["Math", "English", "Biology"],
+"graduateYear": 2025,
+"nationality": "Ukrainian",
+"city": "Lviv"
+},
+{
+"name": "Max",
+"surname": "Smith",
+"age": 22,
+"sex": "male",
+"isLocal": false,
+"mainLessons": ["Math", "English", "Biology"],
+"graduateYear": 2025,
+"nationality": "Ukrainian",
+"city": "Kyiv"
+}
+]
+}
